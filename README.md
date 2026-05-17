@@ -21,7 +21,7 @@ Este projeto desenvolve um aplicativo web interativo usando Streamlit para anál
 3. Execute o aplicativo: `streamlit run app.py`
 
 ## Acesso Online
-🔗 **Link do aplicativo:** [Seu link do Render aqui]
+🔗 **Link do aplicativo:** https://sprint5-project-65kg.onrender.com
 
 ## Estrutura do Projeto
 ```

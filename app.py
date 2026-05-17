@@ -3,8 +3,7 @@ import plotly.express as px
 import streamlit as st
 
 # lendo os dados
-car_data = pd.read_csv(
-    'C:/Users/rafae/anaconda_projects/sprint5-project/vehicles_us.csv')
+car_data = pd.read_csv('vehicles_us.csv')
 
 st.header('Tabela de Veículos')
 
